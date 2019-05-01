@@ -335,3 +335,4 @@
     for (size_t i = 0; i < data.size(); i++) data[i] = !data[i];               \
     return *this;                                                              \
   }
+
